@@ -1,3 +1,7 @@
+# Criadores
+
+João Pedro Cavalcante, Gustavo Francisco & Nicholas Yamasita
+
 # Lista de Tarefas
 
 Este é um projeto para você lembrar de suas tarefas/afazeres pendentes e concluídos;
